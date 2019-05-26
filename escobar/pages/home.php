@@ -31,7 +31,13 @@
          </div>
          </div>
          </div>
-         <div class="col-md-1"></div>
+         <div class="col-md-1">
+         <ul class="nav justify-content-end">
+         <li class="nav-item">
+         <a class="nav-link active" href="../index.php?link=login.php">Login</a>
+         </li>
+         </ul>
+         </div>
         </div>
 
         <div class="col-md-12">

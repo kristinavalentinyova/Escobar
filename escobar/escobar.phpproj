@@ -24,9 +24,11 @@
     <Compile Include="pages\home.php" />
     <Compile Include="pages\jedalnylistok.php" />
     <Compile Include="pages\kontakt.php" />
+    <Compile Include="pages\login.php" />
     <Compile Include="pages\napojovylistok.php" />
     <Compile Include="pages\onas.php" />
     <Compile Include="pages\recenzie.php" />
+    <Compile Include="session.php" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Images\" />

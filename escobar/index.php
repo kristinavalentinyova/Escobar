@@ -1,6 +1,6 @@
 <?php
 
-
+include 'session.php';
 include 'pages/header.php';
 include 'connect.php';
 

@@ -27,6 +27,7 @@
     <div class="row">
         <div class="col-md-3">
         <img src="Images/logo.png" alt="EscobarLogo" title="EscobarLogo" width="250" height="250">
+
         </div>
         <div class="col-md-9"><br><br><br>
         <div class="w3-container w3-black w3-center w3-allerta w3-margin-top">
