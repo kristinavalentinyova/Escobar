@@ -8,13 +8,13 @@
   <li class="nav-item">
     <a class="nav-link active" href="../index.php?link=kontakt.php">Kontakt</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../index.php?link=onas.php">O nás</a>
-  </li>
-  <li class="nav-item">
+   <li class="nav-item">
     <a class="nav-link" href="../index.php?link=recenzie.php">Recenzie</a>
-  </li>
-</ul>
+    </li>
+         <li class="nav-item">
+         <a class="nav-link active" href="../index.php?link=login.php">Login</a>
+         </li>
+         </ul>
         </div>
     </div>
     <div class="row">
