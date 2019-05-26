@@ -30,7 +30,7 @@ if (isset($_POST['login'])) {
         <a class="nav-link" href="../index.php?link=dennemenu.php">Denné menu</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link active" href="../index.php?link=jedalnylistok.php">Jedálny lístok</a>
+        <a class="nav-link" href="../index.php?link=jedalnylistok.php">Jedálny lístok</a>
        </li>
        <li class="nav-item">
        <a class="nav-link" href="../index.php?link=napojovylistok.php">Napojový lístok</a>
