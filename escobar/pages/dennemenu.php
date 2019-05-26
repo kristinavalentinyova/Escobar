@@ -39,8 +39,8 @@
          <div class="card bg-dark text-dark">
          <img src="Images/white1.jpg" class="card-img" alt="..." height="1150">
          <div class="card-img-overlay">
-         <h1 class="card-title">*Denné menu*</h1>
-         <h3><p class="card-text">Cena menu (vrátane polievky) je 4,50€ s DPH</p></h3>
+         <h1> <class="card-title">*Denné menu*</h1>
+         <h4><p class="card-text">Cena menu (vrátane polievky) je 4,50€ s DPH</p></h4>
     <?php 
     while($row = $result->fetch_assoc())
 		{ 
@@ -48,7 +48,7 @@
 	?>
        
         
-         <h4><p class="card-text"><?php echo $row["Den"]; ?></p></h4>
+         <h3><p class="card-text"><?php echo $row["Den"]; ?></p></h3>
          <p class="card-text"><?php echo $row["Polievka"]; ?></p>
          <p class="card-text"><?php echo $row["Menu1"]; ?></p>
          <p class="card-text"><?php echo $row["Menu2"]; ?></p>
