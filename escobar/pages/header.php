@@ -32,6 +32,8 @@
         <div class="col-md-9"><br><br><br>
         <div class="w3-container w3-black w3-center w3-allerta w3-margin-top">
         <p class="w3-xxxlarge">ESCOBAR BURGERS</p>
+        <h4><?php if(isset($_SESSION['ID'])){ echo("Vitaj "); echo($_SESSION['username']); ?> <a class="prihlasenie" href="./index.php?link=logout.php">odhlasit sa</a> <?php } 
+    else { ?> <a></a> <?php } ?></h4>
         </div>
         </div>
     </div>
